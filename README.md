@@ -9,15 +9,16 @@ Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no ú
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/stenicruz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      src="https://img.shields.io/github/stars/stenicruz?label=Stars&style=for-the-badge&color=facc15&logo=star"
     />
   </a>
   <a href="https://github.com/stenicruz?tab=followers">
     <img 
-       alt="Seguidores" 
-       title="Me siga no GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/followers/stenicruz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://img.shields.io/github/followers/stenicruz?label=Followers&style=for-the-badge&logo=github&color=3b82f6"
     />
+  </a>
   </a>
    <a href = "mailto:steniocruz48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/steniocruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -73,20 +74,21 @@ Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no ú
 
 ### 📊 Estatísticas
 
-<p>
+<p style="padding-top: 20px">
+  <div style="display: flex; align-items: center; justify-content: center">
+  
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=stenicruz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenicruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenicruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</div>
 
 </p>
