@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Sténio Cruz
 
-**`Desenvolvedor FullStack`**
+**`CobraDev`**
 
 Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no último ano do curso técnico de Telecomunicações no ITEL. Tenho grande interesse nas áreas de programação Front-End, Back-End, Mobile e Games. Busco impactar minha comunidade através da tecnologia e estou construindo meu caminho como desenvolvedor full stack.
 
