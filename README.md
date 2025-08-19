@@ -2,7 +2,7 @@
 
 **`CobraDev`**
 
-Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no último ano do curso técnico de Telecomunicações no ITEL. Tenho grande interesse nas áreas de programação Front-End, Back-End, Mobile e Games. Busco impactar minha comunidade através da tecnologia e estou construindo meu caminho como desenvolvedor full stack.
+I am Sténio Cruz, 18 years old, from Angola. I am currently in the final year of the Technical Informatic course at ITEL. I have a strong interest in Front-End, Back-End, Mobile, and Game development. My goal is to make a positive impact on my community through technology, while building my path as a full-stack developer
 
 <p>    
   <a href="https://github.com/stenicruz?tab=repositories&sort=stargazers">
@@ -26,7 +26,7 @@ Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no ú
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages and Tools
 
 <img 
     align="left" 
@@ -72,7 +72,7 @@ Sou Sténio Cruz, tenho 18 anos e sou natural de Angola. Atualmente, estou no ú
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p style="padding-top: 20px">
   <div style="display: flex; align-items: center; justify-content: center">
