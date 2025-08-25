@@ -4,6 +4,17 @@
 
 I am Sténio Cruz, 18 years old, from Angola. I am currently in the final year of the Technical Informatic course at ITEL. I have a strong interest in Front-End, Back-End, Mobile, and Game development. My goal is to make a positive impact on my community through technology, while building my path as a full-stack developer
 
+<!--github stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stenicruz&theme=apprentice&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stenicruz&layout=donut&langs_count=10&card_width=320&theme=apprentice" />
+</a>
+
+<!--Languages and Tools-->
+##
+
 <p>    
   <a href="https://github.com/stenicruz?tab=repositories&sort=stargazers">
     <img 
@@ -24,10 +35,8 @@ I am Sténio Cruz, 18 years old, from Angola. I am currently in the final year o
   <a href="https://www.linkedin.com/in/steniocruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
----
 
-### 💻 Languages and Tools
-
+<h1 style="text-align:center; fonr-size: 18px">Tecnologies</h1>
 <img 
     align="left" 
     alt="HTML"
@@ -68,27 +77,3 @@ I am Sténio Cruz, 18 years old, from Angola. I am currently in the final year o
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-<p style="padding-top: 20px">
-  <div style="display: flex; align-items: center; justify-content: center">
-  
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=stenicruz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenicruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
-
-</p>
