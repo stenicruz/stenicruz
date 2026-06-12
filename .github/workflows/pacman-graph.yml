@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?type=pacman
+            dist/pacman-contribution-graph-dark.svg?type=pacman&palette=github-dark
 
       - name: Push to output branch
         uses: JamesIves/github-pages-deploy-action@v4
