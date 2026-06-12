@@ -9,9 +9,7 @@
 
 ## 👨🏾‍💻 Sténio Cruz — `CobraDev`
 
-Tenho 18 anos e estou no último ano do curso Técnico de Informática no ITEL, Angola. Construo aplicações mobile, APIs REST e modelos de machine learning. O meu objectivo é criar tecnologia que tenha impacto real na minha comunidade.
-
-Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](https://github.com/stenicruz/herbia), uma app mobile de detecção de doenças em plantas com IA. 🌿
+Eu sou o Sténio Cruz, tenho 18 anos e sou Técnico de Informática. Atuo na área da programação com foco específico em desenvolvimento Mobile, Backend e Jogos. Sou movido pelo desafio de aprender e evoluir continuamente, tanto a nível pessoal quanto profissional, com o propósito claro de criar soluções tecnológicas que façam a diferença na vida das pessoas
 
 <p>
   <a href="https://github.com/stenicruz?tab=repositories&sort=stargazers">
