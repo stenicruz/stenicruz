@@ -30,7 +30,7 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
 
 ---
 
-### 🚀 Projecto em destaque
+### Projecto em destaque
 
 <a href="https://github.com/stenicruz/herbia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stenicruz&repo=herbia&theme=apprentice&hide_border=true" />
@@ -38,7 +38,7 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stenicruz&theme=apprentice&show_icons=true&hide_border=true&include_all_commits=true" />
@@ -49,7 +49,7 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML" />
@@ -61,14 +61,6 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="React Native" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img width="12" />
@@ -83,7 +75,7 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
 
 ---
 
-### 🐍 Contribuições
+### Contribuições
 
 <br clear="both">
 <picture>
