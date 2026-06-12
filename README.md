@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile!;Fullstack+%C2%B7+Mobile+%C2%B7;Building+from+Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile!;%3C%2F+Fullstack+%2B+Mobile%3E;Building+from+Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
 
 ---
 
