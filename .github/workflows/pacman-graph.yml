@@ -23,12 +23,13 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
 
       - name: push to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
-          clean: false
+          clean: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
