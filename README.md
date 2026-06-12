@@ -1,7 +1,15 @@
-# 👨🏾‍💻 Sténio Cruz
-**`CobraDev`** — Fullstack · Mobile · AI/ML · Angola 🇦🇴
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile!;CobraDev+%F0%9F%90%8D;Fullstack+%C2%B7+Mobile+%C2%B7+AI%2FML;Building+from+Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
 
-Tenho 18 anos e estou no último ano do curso Técnico de Informática no ITEL. Construo aplicações mobile, APIs REST e modelos de machine learning. O meu objectivo é criar tecnologia que tenha impacto real na minha comunidade.
+---
+
+<p align="center">
+  <!-- Substitui por um banner GIF teu quando tiveres. Podes criar em canva.com -->
+  <!-- <img src=".github/banner.gif" width="100%" /> -->
+</p>
+
+## 👨🏾‍💻 Sténio Cruz — `CobraDev`
+
+Tenho 18 anos e estou no último ano do curso Técnico de Informática no ITEL, Angola. Construo aplicações mobile, APIs REST e modelos de machine learning. O meu objectivo é criar tecnologia que tenha impacto real na minha comunidade.
 
 Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](https://github.com/stenicruz/herbia), uma app mobile de detecção de doenças em plantas com IA. 🌿
 
@@ -41,27 +49,51 @@ Recentemente defendi o meu Projecto de Aptidão Profissional — [**Herbia**](ht
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Stack
 
-<!-- Frontend / Mobile -->
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<!-- Backend -->
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-<!-- IA -->
-<img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
-<!-- DB -->
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<!-- Java -->
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<!-- Tools -->
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="React Native" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />
+</div>
 
-<br/><br/>
+---
+
+### 🐍 Contribuições
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stenicruz/stenicruz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stenicruz/stenicruz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stenicruz/stenicruz/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>"A tecnologia que não serve as pessoas, não serve para nada."</i>
+</p>
